@@ -1,4 +1,4 @@
-# Crop mapping with time series
+# Practical
 
 Materials for the *Crop Mapping using Synthetic Aperture Radar (SAR) and Optical Remote Sensing*.
 

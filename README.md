@@ -8,7 +8,7 @@ Krištof Oštir, Matej Račič (University of Ljubljana)
 
 ## Theory
 
-Slides for the theory part of the course are available here [Remote Sensing and Change Detection](./Theory/Slides.pdf).
+Slides for the theory part of the course are available here [Crop Mapping using Synthetic Aperture Radar (SAR) and Optical Remote Sensing](./Theory/Slides.pdf).
 
 ## Preparation
 
