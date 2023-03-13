@@ -14,12 +14,12 @@ Slides for the theory part of the course are available here [Remote Sensing and 
 
 The repository consists of two directories with the materials, installation instructions, theory and practical information.
 
-* [Optical](Optical/README.md)
-* [SAR](SAR/README.md)
+* [Theory](Theory/README.md)
+* [Practical](Practical/README.md)
 
 The repository can be synchronized using `git pull` or downloaded as a zip file. The data used for the practical exercise can be downloaded from [ARSET](https://appliedsciences.nasa.gov/join-mission/training/english/arset-crop-mapping-using-synthetic-aperture-radar-sar-and-optical-0?utm_source=social&utm_medium=ext&utm_campaign=AdvancedAg-23). 
 
-Each practical has corresponding install instructions which should be completed in advance.
+The practical has corresponding install instructions which should be completed in advance.
 
 ## Acknowledgment
 

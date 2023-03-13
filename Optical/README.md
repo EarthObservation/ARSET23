@@ -1,6 +1,6 @@
-# Change detection with optical time series
+# Crop mapping with time series
 
-Materials for the *Remote Sensing and Change Detection with Sentinel Time Series Data*.
+Materials for the *Crop Mapping using Synthetic Aperture Radar (SAR) and Optical Remote Sensing*.
 
 Prepared by:  
 Krištof Oštir  
@@ -8,7 +8,7 @@ Matej Račič
 
 ## Installation instructions
 We will be using [Anaconda](https://www.anaconda.com/), which can be installed from the [website](https://www.anaconda.com/products/distribution#Downloads).
-Once installed open Anaconda Prompt and move to the location of the extracted repository `cd Downloads/ARSET23/Optical`. If you have downloaded it to a different drive type the letter of the drive first `D:`.
+Once installed open Anaconda Prompt and move to the location of the extracted repository `cd Downloads/ARSET23/Practical`. If you have downloaded it to a different drive type the letter of the drive first `D:`.
 
 Here you can create a new environment for this tutorial using the provided `environment.yml` file:
 
