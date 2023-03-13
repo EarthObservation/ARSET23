@@ -1,0 +1,15 @@
+name: eo
+channels:
+  - conda-forge
+dependencies:
+- python=3.10
+- numpy=1.24
+- rasterio=1.3.4
+- shapely=2.0.1
+- pillow=9.4
+- geopandas=0.12.2
+- scikit-learn=1.2.1
+- jupyterlab=3.6.1
+- ipywidgets=8.0.4
+- pip:
+  - eo-learn
